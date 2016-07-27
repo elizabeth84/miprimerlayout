@@ -1,0 +1,48 @@
+*{
+	padding: 0;
+	margin:0;
+}
+img{
+	width: 120px;
+	height: 120px;
+}
+.foto{
+	border-radius:50%;
+}
+.biografia{
+	text-align: center;
+}
+.html,.css,.java{
+	margin-left:23px;
+	background: gray;
+	border:2px solid gray;
+	color:white;
+	margin-top: 10px;
+	padding: 10px;
+}
+.html{
+	width:300px; 
+}
+.css{
+	width: 200px;
+}
+.java{
+	width: 100px;
+}
+.contenedor{
+	position:relative;
+	width: 60%;
+	text-align:center;
+	margin:0 auto;
+}
+.conteiner2{
+	border: 2px solid gray;
+	width: 800px;
+	margin: 8px 260px;
+	padding: 30px;
+}
+.coder{
+	position:relative;
+	display:inline-block;
+	margin-left: 25px;
+}
